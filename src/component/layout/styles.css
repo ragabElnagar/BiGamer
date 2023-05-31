@@ -1,0 +1,10 @@
+.header-section.header-fixed {
+  top: 0 !important;
+}
+
+.header-section.header-fixed .logo{
+    max-width: 130px !important;
+}
+.mobile-logo {
+  max-width: 100px !important;
+}

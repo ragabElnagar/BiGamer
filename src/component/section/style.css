@@ -1,0 +1,8 @@
+.common-filter-button-group li::after, .common-filter-button-group li:first-child::before {
+  display: none !important;
+}
+
+.selectedTab{
+    background: radial-gradient(circle,#37c1d5 0,#080e37 100%);
+    border-radius: 2px;
+}
